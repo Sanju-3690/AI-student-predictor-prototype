@@ -125,4 +125,7 @@ Machine Learning Model
 
 ## Author
 
+<<<<<<< HEAD
 "End-to-end ML web app demonstrating model deployment with FastAPI and Streamlit."
+
+

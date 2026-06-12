@@ -125,4 +125,4 @@ Machine Learning Model
 
 ## Author
 
-Built as a beginner AI + Data Science project using FastAPI and Streamlit.
+"End-to-end ML web app demonstrating model deployment with FastAPI and Streamlit."
